@@ -47,10 +47,6 @@ The goal of this repository is to:
 
 ---
 
-# Repository Structure
-
----
-
 # Goals
 
 * Develop hands-on cybersecurity experience
