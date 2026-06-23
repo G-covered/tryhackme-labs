@@ -1,1 +1,1 @@
-HI
+To attack or defend any technology, you first need to understand what powers it. Explore computer basics, write your first lines of code, and discover how networking, the web, and real world cyber attacks all connect.
