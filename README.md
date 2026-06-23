@@ -1,4 +1,4 @@
-# TryHackMe Writeups
+# TryHackMe labs
 
 ## Overview
 
