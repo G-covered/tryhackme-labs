@@ -1,4 +1,4 @@
-# TryHackMe labs
+# TryHackMe Labs
 
 ## Overview
 
@@ -48,16 +48,6 @@ The goal of this repository is to:
 ---
 
 # Repository Structure
-
-```text
-tryhackme-writeups/
-│
-├── cyber-security-101/
-├── linux-fundamentals/
-├── networking-basics/
-├── wireshark/
-└── web-security/
-```
 
 ---
 
